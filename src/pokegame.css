@@ -1,0 +1,10 @@
+.pokegame .hand1,
+.pokegame .hand2
+{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+}
